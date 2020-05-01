@@ -1,0 +1,16 @@
+#nav{
+    display: flex;
+    background-color: #366cbd;
+    color: white;
+    font-family: sans-serif;
+}
+
+#nav > *{
+    padding: 2px 30px;
+}
+
+#nav > *:hover{
+    transition: .5s;
+    background-color: white;
+    color: #366cbd;
+}
